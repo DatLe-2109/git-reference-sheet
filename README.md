@@ -1,7 +1,7 @@
 # Git Reference Sheet – Dat Le (Dawn)
 > Quick summary of essential Git commands, workflows, and references.
 
-## 1️⃣ Common Commands
+## 1. Common Commands
 | Command | Description |
 |----------|-------------|
 | `git init` | Create a new repository |
@@ -18,7 +18,15 @@
 
 ---
 
-## 2️⃣ Example Tasks
+## 2. References
+
+- **Git Cheat Sheet – Education (GitHub Education):** [Download PDF](https://education.github.com/git-cheat-sheet-education.pdf)
+- **Git Documentation:** [https://git-scm.com/docs](https://git-scm.com/docs)
+- **Markdown-It Documentation:** [https://markdown-it.github.io/](https://markdown-it.github.io/)
+- **GitHub Docs – Common Commands:** [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
+
+
+## 3. Example Tasks
 
 ```bash
 # Create and push a new project
@@ -41,3 +49,6 @@ git commit -m "Add new UI"
 git checkout main
 git merge feature/ui
 git push
+
+
+
